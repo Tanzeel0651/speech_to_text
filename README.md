@@ -14,13 +14,13 @@ Run "seq2seq.py this will train the model on your audio and would save in model/
 
 Classic Encoder Decoder Model
 
-convolution layer
-Convolution layer
-Max Pooling
-Bidirectional LSTM
-LSTM
-Dense
+convolution layer =>
+Convolution layer => 
+Max Pooling => 
+Bidirectional LSTM => 
+LSTM => 
+Dense => 
 Dense
 
-optimizer = 'rmsprop'
+optimizer = 'rmsprop'     
 loss = 'categoriacal crossentropy'
